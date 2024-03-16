@@ -1,2 +1,7 @@
-# Data-Wrangling-in-Time-Series-Readings-Across-Multiple-Locations
-The aim of the research was to develop new systems and algorithms that can help City administrators remotely monitor, understand and interpret real time information on urban environments where data has been handled carefully
+# Optimizing Sensor Data Analysis: Min-Max Scaling, Encoding, and Handling Missing Values in Time-Series Readings Across Multiple Locations.
+
+In 2012, Council and ARUP worked with the University of Melbourne on a three-year Australian Research Council Linkage Grant to develop a smart city using the Internet of Things.The aim of the research was to develop new systems and algorithms that can help City administrators remotely monitor, understand and interpret real time information on urban environments. The researchers are now implementing their findings in the City through a three-month "real-world" data collection and testing effort. Environmental sensors are installed at the Dock Library and Fitzroy Gardens to monitor the temperature, humidity, and light levels. The data collected will aid the Urban Landscapes division in communicating and understanding the importance of canopy cover for urban cooling.
+
+Data wrangling activities are listed on basis of sensors, emphasizing the difficulties involved in working with real-world data. These jobs include mistake correction, Encoding textual/categorical values, resolving missing information, and normalization. The article clarifies feature extraction approaches and emphasizes the need of numerical data representation for algorithmic processing, especially in the context of machine learning for image analysis.
+
+Link to the Dataset:- https://data.melbourne.vic.gov.au/explore/dataset/sensor-readings-with-temperature-light-humidity-every-5-minutes-at-8-locations-t/export/
